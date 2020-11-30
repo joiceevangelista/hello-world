@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Halo
+
+Nama saya Joice Evangelista Lase, mahasiswa di Politeknik Statistika STIS.
